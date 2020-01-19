@@ -23,7 +23,6 @@ group :development, :test do
   gem 'simplecov', require: false
   gem 'terminal-notifier-guard', require: false
 
-  gem 'codeclimate-test-reporter'
   gem 'coveralls'
 
   gem 'overcommit'
