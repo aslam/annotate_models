@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.homepage = 'http://github.com/ctran/annotate_models'
   s.licenses = ['Ruby']
   s.require_paths = ['lib']
-  s.rubygems_version = '2.1.11'
   s.summary = 'Annotates Rails Models, routes, fixtures, and others based on the database schema.'
 
   s.specification_version = 4 if s.respond_to? :specification_version
