@@ -5,7 +5,6 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new(
   [
     Coveralls::SimpleCov::Formatter,
     SimpleCov::Formatter::HTMLFormatter,
-    CodeClimate::TestReporter::Formatter
   ]
 )
 
